@@ -22,7 +22,7 @@ Aqui você encontra os notebooks dos meus projetos na área de visão computacio
 
 
 
-## Projetos de Data Science:
+## Projetos de Visão Computacional:
 Veja os projetos desenvolvidos:
 
 <h3><a href='https://github.com/prof-Thiago-Nunes/Projetos-data-science-/blob/main/Geocoding_API.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/business-intelligence-com-gcp-e-python-4848fda9ddbc"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Business Intelligence com GCP e Python <h3>
