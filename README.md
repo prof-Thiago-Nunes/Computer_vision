@@ -11,12 +11,14 @@
 # Thiago Nunes
 <sub>*Professor pesquisador* das Escolas Nilton Lins 
 
-Formado em Licenciatura em Física trabalho como professor e pesquisador no Centro Universitário Nilton Lins, tenho um ano de experiência em programação em Python e Data Science. Ao longo desse tempo, desenvolvi habilidades em estatística e matemática aplicada, além de domínio em Python e suas bibliotecas, familiaridade com ferramentas de visualização de dados e experiência em modelagem de dados e Machine Learning.
+Formado em Físic, trabalho como professor pesquisador no Centro Universitário Nilton Lins, possuo dois de experiência em programação em Python e Data Science. Ao longo desse tempo, desenvolvi habilidades em estatística e matemática aplicada, além de domínio em Python e suas bibliotecas, familiaridade com ferramentas de visualização de dados e experiência em modelagem de dados e Machine Learning.
+ 
+Atualmente estou desenvolvendo pesquisa científica na área de visão computacional em parceria com o Instituto Federal do Amazonas
 
 
-**Background in:** Data Science, Python and Science.
+**Background in:** Computer Vision, Data Science, Python and Science.
   
-Aqui você encontra os notebooks dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python. Para acessar os projetos, basta apertar nos icones ao lado.
+Aqui você encontra os notebooks dos meus projetos na área de visão computacional utilizando a Linguagem de Programação Python com recursos da biblioteca OpenCV.
 
 
 
