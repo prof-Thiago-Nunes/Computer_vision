@@ -24,5 +24,7 @@ Aqui você encontra os notebooks dos meus projetos na área de visão computacio
 
 ## Projetos de Visão Computacional:
 Veja os projetos desenvolvidos:
+  
+<h3><a href='https://github.com/prof-Thiago-Nunes/Computer_vision/blob/main/teste.py'><img height= "23px" width="70px"src="https://img.shields.io/badge/Python-F37626.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a> <a href="https://www.linkedin.com/pulse/aplicando-t%C3%A9cnicas-de-keying-com-opencv-cria%C3%A7%C3%A3o-cen%C3%A1rios-thiago-nunes/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Detector de Fadiga (drowsiness detection) <h3>
 
 <h3><a href='https://github.com/prof-Thiago-Nunes/Computer_vision/blob/main/teste.py'><img height= "23px" width="70px"src="https://img.shields.io/badge/Python-F37626.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a> <a href="https://www.linkedin.com/pulse/aplicando-t%C3%A9cnicas-de-keying-com-opencv-cria%C3%A7%C3%A3o-cen%C3%A1rios-thiago-nunes/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Aplicando Técnicas de Keying com OpenCV: Criação de Cenários Virtuais <h3>
