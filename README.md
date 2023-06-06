@@ -11,20 +11,22 @@
 # Thiago Nunes
 <sub>*Professor pesquisador* das Escolas Nilton Lins 
 
-Formado em Física, trabalho como professor pesquisador no Centro Universitário Nilton Lins, possuo dois de experiência em programação em Python e Data Science. Ao longo desse tempo, desenvolvi habilidades em estatística e matemática aplicada, além de domínio em Python e suas bibliotecas, familiaridade com ferramentas de visualização de dados e experiência em modelagem de dados e Machine Learning.
- 
-Atualmente estou desenvolvendo pesquisa científica na área de visão computacional em parceria com o Instituto Federal do Amazonas.
+Formado em Física pelo Instituto Federal do Amazonas, Tenho experiência sólida em sistemas de visão computacional, utilizando ferramentas como OpenCV, Pytorch, Keras e Tensorflow. Essas habilidades me permitem criar soluções inteligentes e eficientes para reconhecimento de padrões, detecção de objetos e análise de imagens.
 
+Além disso, possuo proficiência em inteligência artificial, especialmente em técnicas como aprendizado de máquina (ML), redes neurais convolucionais (CNN) e redes neurais recorrentes (RNN). Minha capacidade de aplicar essas técnicas em projetos práticos me permite criar sistemas autônomos inteligentes e adaptáveis.
+
+Sou especialista em linguagens de programação como Python, C#, C++. Minha experiência com câmeras, lentes e iluminação é um diferencial, permitindo-me otimizar a captura de imagens e garantir resultados de alta qualidade.
 
 **Background in:** Computer Vision, Data Science, Python and Science.
   
-Aqui você encontra os notebooks dos meus projetos na área de visão computacional utilizando a Linguagem de Programação Python com recursos da biblioteca OpenCV.
-
-
+Aqui você encontra os notebooks dos meus projetos na área de visão computacional utilizando a Linguagem de Programação Python com
+recursos da biblioteca OpenCV.
 
 ## Projetos de Visão Computacional:
 Veja os projetos desenvolvidos:
   
 <h3><a href='https://github.com/prof-Thiago-Nunes/Computer_vision/blob/main/detec%C3%A7%C3%A3o_fadiga.py'><img height= "23px" width="70px"src="https://img.shields.io/badge/Python-F37626.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/detec%C3%A7%C3%A3o-de-fadiga-ao-volante-utilizando-python-e-opencv-effc8cf8a45e"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Detector de Fadiga (drowsiness detection) <h3>
+  
+ <h3><a href='https://github.com/prof-Thiago-Nunes/Computer_vision/blob/main/detec%C3%A7%C3%A3o_moedas.py'><img height= "23px" width="70px"src="https://img.shields.io/badge/Python-F37626.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/detec%C3%A7%C3%A3o-de-fadiga-ao-volante-utilizando-python-e-opencv-effc8cf8a45e"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Detector de moedas com OpenCV <h3>
 
 <h3><a href='https://github.com/prof-Thiago-Nunes/Computer_vision/blob/main/teste.py'><img height= "23px" width="70px"src="https://img.shields.io/badge/Python-F37626.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a> <a href="https://www.linkedin.com/pulse/aplicando-t%C3%A9cnicas-de-keying-com-opencv-cria%C3%A7%C3%A3o-cen%C3%A1rios-thiago-nunes/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Aplicando Técnicas de Keying com OpenCV: Criação de Cenários Virtuais <h3>
