@@ -26,6 +26,8 @@ recursos da biblioteca OpenCV.
 Veja os projetos desenvolvidos:
   
 <h3><a href='https://github.com/prof-Thiago-Nunes/Computer_vision/blob/main/detec%C3%A7%C3%A3o_fadiga.py'><img height= "23px" width="70px"src="https://img.shields.io/badge/Python-F37626.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/detec%C3%A7%C3%A3o-de-fadiga-ao-volante-utilizando-python-e-opencv-effc8cf8a45e"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Detector de Fadiga (drowsiness detection) <h3>
+
+<h3><a href='https://github.com/prof-Thiago-Nunes/Computer_vision/blob/main/detec%C3%A7%C3%A3o_fadiga.py'><img height= "23px" width="70px"src="https://img.shields.io/badge/Python-F37626.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/detec%C3%A7%C3%A3o-de-fadiga-ao-volante-utilizando-python-e-opencv-effc8cf8a45e"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Detecção de ArUco Markers <h3>
   
  <h3><a href='https://github.com/prof-Thiago-Nunes/Computer_vision/blob/main/detec%C3%A7%C3%A3o_moedas.py'><img height= "23px" width="70px"src="https://img.shields.io/badge/Python-F37626.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/detec%C3%A7%C3%A3o-de-moeda-com-thresholding-4bab96a39a42"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Detector de moedas com OpenCV <h3>
 
