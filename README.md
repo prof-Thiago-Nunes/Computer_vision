@@ -15,7 +15,7 @@ Formado em Física pelo Instituto Federal do Amazonas, Tenho experiência sólid
 
 Além disso, possuo proficiência em inteligência artificial, especialmente em técnicas como aprendizado de máquina (ML), redes neurais convolucionais (CNN) e redes neurais recorrentes (RNN). Minha capacidade de aplicar essas técnicas em projetos práticos me permite criar sistemas autônomos inteligentes e adaptáveis.
 
-Sou especialista em linguagens de programação como Python, C#, C++. Minha experiência com câmeras, lentes e iluminação é um diferencial, permitindo-me otimizar a captura de imagens e garantir resultados de alta qualidade.
+Sou especialista na linguagem de programação Python. Minha experiência com câmeras, lentes e iluminação é um diferencial, permitindo-me otimizar a captura de imagens e garantir resultados de alta qualidade.
 
 **Background in:** Computer Vision, Data Science, Python and Science.
   
