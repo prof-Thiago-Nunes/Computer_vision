@@ -11,12 +11,11 @@
 # Thiago Nunes
 <sub>*Professor pesquisador* das Escolas Nilton Lins 
 
-Formado em Física pelo Instituto Federal do Amazonas, Tenho experiência sólida em sistemas de visão computacional, utilizando ferramentas como OpenCV, Pytorch, Keras e Tensorflow. Essas habilidades me permitem criar soluções inteligentes e eficientes para reconhecimento de padrões, detecção de objetos e análise de imagens.
+Formado em Física pelo Instituto Federal do Amazonas e atualmente cursando mestrado em Ensino Tecnológico na mesma instituição, possuo uma sólida experiência em sistemas de visão computacional, fazendo uso de ferramentas como OpenCV, Pytorch, Keras e Tensorflow. Minhas habilidades nesse campo me capacitam a desenvolver soluções inteligentes e eficientes para reconhecimento de padrões, detecção de objetos e análise de imagens.
 
-Além disso, possuo proficiência em inteligência artificial, especialmente em técnicas como aprendizado de máquina (ML), redes neurais convolucionais (CNN) e redes neurais recorrentes (RNN). Minha capacidade de aplicar essas técnicas em projetos práticos me permite criar sistemas autônomos inteligentes e adaptáveis.
+Além disso, sou proficiente em inteligência artificial, com foco em técnicas como aprendizado de máquina (ML), redes neurais convolucionais (CNN) e redes neurais recorrentes (RNN). Minha capacidade de aplicar essas técnicas em projetos práticos me permite criar sistemas autônomos inteligentes e adaptáveis.
 
-Sou especialista na linguagem de programação Python. Minha experiência com câmeras, lentes e iluminação é um diferencial, permitindo-me otimizar a captura de imagens e garantir resultados de alta qualidade.
-
+Sou especialista na linguagem de programação Python e conto com experiência significativa em câmeras, lentes e iluminação, o que representa um diferencial na otimização da captura de imagens e na garantia de resultados de alta qualidade.
 **Background in:** Computer Vision, Data Science, Python and Science.
   
 Aqui você encontra os notebooks dos meus projetos na área de visão computacional utilizando a Linguagem de Programação Python com
@@ -24,6 +23,7 @@ recursos da biblioteca OpenCV.
 
 ## Projetos de Visão Computacional:
 Veja os projetos desenvolvidos:
+<h3><a href='https://github.com/prof-Thiago-Nunes/Computer_vision/blob/main/YOLOv9.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Python-F37626.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/detec%C3%A7%C3%A3o-de-fadiga-ao-volante-utilizando-python-e-opencv-effc8cf8a45e"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information <h3>
   
 <h3><a href='https://github.com/prof-Thiago-Nunes/Computer_vision/blob/main/detec%C3%A7%C3%A3o_fadiga.py'><img height= "23px" width="70px"src="https://img.shields.io/badge/Python-F37626.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/detec%C3%A7%C3%A3o-de-fadiga-ao-volante-utilizando-python-e-opencv-effc8cf8a45e"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Detector de Fadiga (drowsiness detection) <h3>
 
